@@ -46,8 +46,8 @@ interests:
 education:
   - area: BSc Computer Science
     institution: New York University. Shanghai
-    date_start: 2021-09
-    date_end: 2025-05
+    date_start: 2021-9
+    date_end: 2025-5
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
