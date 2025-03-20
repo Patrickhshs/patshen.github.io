@@ -46,8 +46,8 @@ interests:
 education:
   - area: BSc Computer Science
     institution: New York University. Shanghai
-    date_start: 2021-9
-    date_end: 2025-5
+    date_start: 2021-09-02
+    date_end: 2025-05-25
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -100,7 +100,8 @@ Music is Life 🎶
  - I play acoustic/electric guitar and bass.
  - Been a fan of Omnipresent Youth Society (万能青年旅店) since I was 13.
 
-I’m from Wanzhou, Chongqing City—a mountainous spot known for its grilled fish and noodles.
+A Little About Home
+ - I’m from Wanzhou, Chongqing City—a mountainous spot known for its grilled fish and noodles.
 
-  - I’m all about street basketball 🏀.
-  - Love driving 🚗.
+ - I’m all about street basketball 🏀.
+ - Love driving 🚗.
